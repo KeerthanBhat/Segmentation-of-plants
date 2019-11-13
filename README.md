@@ -1,3 +1,3 @@
 # Segmentation-of-plants
 
-Detecting plant area in an image
+Detecting the leaves in an image of a plant.
